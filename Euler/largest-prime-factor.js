@@ -31,7 +31,3 @@ const getPrimeFactors = (number) => {
         largestFactor // Self explanatory my G
     }
 }
-
-
-
-console.log(getPrimeFactors(600851475143))
