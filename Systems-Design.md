@@ -1,6 +1,6 @@
 Web application architecture defines the interactions between: 
 
-1. applications
+1. Applications
 2. middleware systems and 
 3. databases 
 
@@ -26,3 +26,5 @@ Why use midddleware?
 
 Parallelism is when tasks literally run at the same time, e.g., on a multicore processor.
 5. Middleware plays the important role of securing access to back-end resources
+
+Service Oriented Architecture.
